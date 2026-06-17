@@ -1,1 +1,16 @@
+# Front-End
 
+Esta pasta foi criada para armazenar futuramente o desenvolvimento da interface do Sistema de Controle de Presença.
+
+Tecnologias previstas:
+- HTML
+- CSS
+- JavaScript
+
+Funcionalidades previstas:
+- Tela de Login
+- Painel do Professor
+- Registro de Presença
+- Histórico do Aluno
+
+Nesta etapa do projeto ainda não houve implementação.
